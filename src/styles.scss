@@ -1,0 +1,7 @@
+@import '~foundation-sites/scss/foundation';
+
+@include foundation-everything(true);
+
+#root {
+  height: 100%;
+}
